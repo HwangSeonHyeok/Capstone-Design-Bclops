@@ -5,19 +5,19 @@
 
 ## Bclops 팀원
 
-2018125034 오범석 AI
+2018125034 오범석 AI, Image Process
 
-2018125075 황선혁 Mobile
+2018125075 황선혁 Mobile, Image Process
 
-2019125057 정세은 Mobile
+2019125057 정세은 Mobile, Image Process
 
 2019125085 최동주 Image Process
 
-2019125028 박현빈 Backend
+2019125028 박현빈 Backend, AI
 
-2019125060 정혜윤 Backend
+2019125060 정혜윤 Backend, Image Process
 
-2020127066 윤예지 Backend
+2020127066 윤예지 Backend, Image Process
 
 
 

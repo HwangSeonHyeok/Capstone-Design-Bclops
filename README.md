@@ -18,7 +18,11 @@
 2019125060 정혜윤 Backend, Image Process
 
 2020127066 윤예지 Backend, Image Process
+  
 
+
+## 알고리즘
+https://github.com/HwangSeonHyeok/bclops_algorithm
 
 
 ## 와이어프레임
@@ -27,3 +31,6 @@ https://www.figma.com/file/HuXqvcPDdWSPVIYgQ88VTm/Bclops-UI-sample?type=design&n
 
 ## 화면 구성
 <img src="https://github.com/HwangSeonHyeok/CapstoneDesignBclops/assets/55142789/6b363718-ffbd-4b87-a162-13f4b659275b"  width="660" height="396"/>
+
+## 프로젝트 원본 repository
+https://github.com/tpdms0159/bcloaps
